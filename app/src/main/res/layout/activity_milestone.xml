@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="20dp">
+
+        <Button
+            android:id="@+id/btnBack"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Back" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Milestone Checklist"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:paddingTop="20dp"
+            android:paddingBottom="20dp" />
+
+        <CheckBox
+            android:id="@+id/cbSmile"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Baby smiles at people" />
+
+        <CheckBox
+            android:id="@+id/cbHead"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Baby can hold head up" />
+
+        <CheckBox
+            android:id="@+id/cbSound"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Baby makes small sounds" />
+
+        <CheckBox
+            android:id="@+id/cbFollow"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Baby follows moving objects" />
+
+        <Button
+            android:id="@+id/btnSaveChecklist"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Save Checklist"
+            android:layout_marginTop="20dp" />
+
+    </LinearLayout>
+
+</ScrollView>

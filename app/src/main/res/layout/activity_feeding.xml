@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#D7D0D6"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="20dp">
+
+        <Button
+            android:id="@+id/btnBack"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="← Back"
+            android:textColor="#FFFFFF"
+            android:backgroundTint="#6A0D83" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Feeding Guide"
+            android:textSize="26sp"
+            android:textStyle="bold"
+            android:textColor="#000000"
+            android:gravity="center"
+            android:paddingTop="25dp"
+            android:paddingBottom="20dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="0 - 6 Months"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="#6A0D83"
+            android:paddingTop="10dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Only breastfeeding is recommended. Feed the baby whenever hungry and avoid water or solid food unless advised by doctor."
+            android:textSize="16sp"
+            android:textColor="#000000"
+            android:paddingTop="8dp"
+            android:paddingBottom="15dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="6 - 8 Months"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="#6A0D83"
+            android:paddingTop="10dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Start soft foods like mashed rice, dal water, fruit puree, vegetable puree and continue breastfeeding."
+            android:textSize="16sp"
+            android:textColor="#000000"
+            android:paddingTop="8dp"
+            android:paddingBottom="15dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="8 - 12 Months"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="#6A0D83"
+            android:paddingTop="10dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Give soft cooked vegetables, mashed fruits, idli, upma, rice, dal and small quantity of healthy homemade foods."
+            android:textSize="16sp"
+            android:textColor="#000000"
+            android:paddingTop="8dp"
+            android:paddingBottom="15dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="1 - 2 Years"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="#6A0D83"
+            android:paddingTop="10dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Provide balanced meals including rice, dal, vegetables, fruits, milk, eggs or protein-rich foods. Avoid junk food and sugary drinks."
+            android:textSize="16sp"
+            android:textColor="#000000"
+            android:paddingTop="8dp"
+            android:paddingBottom="20dp" />
+
+    </LinearLayout>
+
+</ScrollView>

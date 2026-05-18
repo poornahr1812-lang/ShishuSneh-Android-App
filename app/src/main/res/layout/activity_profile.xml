@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F4EFFA">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="20dp">
+
+        <Button
+            android:id="@+id/btnBack"
+            android:layout_width="110dp"
+            android:layout_height="55dp"
+            android:layout_marginTop="12dp"
+            android:layout_marginBottom="20dp"
+            android:text="← Back"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textColor="#FFFFFF"
+            android:backgroundTint="#6A1B9A"
+            android:padding="12dp"/>
+
+        <EditText
+            android:id="@+id/etBabyName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Baby Name"
+            android:textColor="#000000"
+            android:textColorHint="#666666" />
+
+        <EditText
+            android:id="@+id/etDOB"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:hint="Enter DOB as dd/MM/yyyy"
+            android:textColor="#000000"
+            android:textColorHint="#666666" />
+
+        <TextView
+            android:id="@+id/tvAge"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="Baby Age:"
+            android:textStyle="bold"
+            android:textColor="#000000"/>
+
+        <EditText
+            android:id="@+id/etGender"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Gender"
+            android:textColor="#000000"
+            android:textColorHint="#666666" />
+
+        <EditText
+            android:id="@+id/etWeight"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:hint="Birth Weight"
+            android:textColor="#000000"
+            android:textColorHint="#666666" />
+
+        <EditText
+            android:id="@+id/etMotherContact"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:hint="Mother Contact"
+            android:textColor="#000000"
+            android:textColorHint="#666666" />
+
+        <Button
+            android:id="@+id/saveBtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="Save Profile"
+            android:textColor="#FFFFFF"
+            android:backgroundTint="#6A1B9A"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="25dp"
+            android:text="Quick Navigation"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="#000000"/>
+
+        <Button
+            android:id="@+id/btnOpenGrowth"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="📈 Growth Chart"
+            android:textColor="#FFFFFF"
+            android:backgroundTint="#6A1B9A"/>
+
+        <Button
+            android:id="@+id/btnOpenVaccine"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="💉 Vaccine Tracker"
+            android:textColor="#FFFFFF"
+            android:backgroundTint="#6A1B9A"/>
+
+        <Button
+            android:id="@+id/btnOpenFeeding"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="🍼 Feeding Guide"
+            android:textColor="#FFFFFF"
+            android:backgroundTint="#6A1B9A"/>
+
+        <Button
+            android:id="@+id/btnOpenMilestone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="✅ Milestone Checklist"
+            android:textColor="#FFFFFF"
+            android:backgroundTint="#6A1B9A"/>
+
+    </LinearLayout>
+
+</ScrollView>
