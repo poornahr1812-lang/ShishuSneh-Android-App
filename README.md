@@ -90,9 +90,7 @@ gradlew
 
 ### Clone Repository
 
-```bash
-git clone https://github.com/poornahr1812-lang/ShishuSneh-Android-App.git
-```
+https://github.com/poornahr1812-lang/ShishuSneh-Android-App.git
 
 ### Open in Android Studio
 
