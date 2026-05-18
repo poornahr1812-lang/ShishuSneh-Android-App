@@ -155,16 +155,16 @@ Together we can make **Shishu-Sneh** a better digital companion for mothers and 
 ## Application Screenshots
 
 ### Home Screen
-<img src="123.jpeg" width="250">
+<img src="./123.jpeg" width="250"/>
 
 ### Growth Chart
-<img src="234.jpeg" width="250">
+<img src="./234.jpeg" width="250"/>
 
 ### Vaccine Tracker
-<img src="345.jpeg" width="250">
+<img src="./345.jpeg" width="250"/>
 
 ### Feeding Guide
-<img src="456.jpeg" width="250">
+<img src="./456.jpeg" width="250"/>
 
 ### Milestone Checklist
-<img src="567.jpeg" width="250">
+<img src="./567.jpeg" width="250"/>
