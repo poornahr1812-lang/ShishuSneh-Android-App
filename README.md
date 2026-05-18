@@ -154,17 +154,19 @@ Contributions can include:
 Together we can make **Shishu-Sneh** a better digital companion for mothers and infants.
 Application Screenshots
 
+## Application Screenshots
+
 ### Home Screen
-![Home Screen](https://raw.githubusercontent.com/poornahr1812-lang/ShishuSneh-Android-App/master/123.jpeg)
+<img width="250" alt="Home" src="https://github.com/poornahr1812-lang/ShishuSneh-Android-App/raw/master/123.jpeg">
 
 ### Growth Chart
-![Growth Chart](https://raw.githubusercontent.com/poornahr1812-lang/ShishuSneh-Android-App/master/234.jpeg)
+<img width="250" alt="Growth" src="https://github.com/poornahr1812-lang/ShishuSneh-Android-App/raw/master/234.jpeg">
 
 ### Vaccine Tracker
-![Vaccine Tracker](https://raw.githubusercontent.com/poornahr1812-lang/ShishuSneh-Android-App/master/345.jpeg)
+<img width="250" alt="Vaccine" src="https://github.com/poornahr1812-lang/ShishuSneh-Android-App/raw/master/345.jpeg">
 
 ### Feeding Guide
-![Feeding Guide](https://raw.githubusercontent.com/poornahr1812-lang/ShishuSneh-Android-App/master/456.jpeg)
+<img width="250" alt="Feeding" src="https://github.com/poornahr1812-lang/ShishuSneh-Android-App/raw/master/456.jpeg">
 
 ### Milestone Checklist
-![Milestone Checklist](https://raw.githubusercontent.com/poornahr1812-lang/ShishuSneh-Android-App/master/567.jpeg)
+<img width="250" alt="Milestone" src="https://github.com/poornahr1812-lang/ShishuSneh-Android-App/raw/master/567.jpeg">
